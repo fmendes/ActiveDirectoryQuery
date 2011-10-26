@@ -1,0 +1,11 @@
+C:\NewDev\ActiveDirectoryQuery\ActiveDirectoryQuery\bin\Debug\ActiveDirectoryQuery.exe
+C:\NewDev\ActiveDirectoryQuery\ActiveDirectoryQuery\bin\Debug\ActiveDirectoryQuery.pdb
+C:\NewDev\ActiveDirectoryQuery\ActiveDirectoryQuery\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\NewDev\ActiveDirectoryQuery\ActiveDirectoryQuery\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\NewDev\ActiveDirectoryQuery\ActiveDirectoryQuery\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\NewDev\ActiveDirectoryQuery\ActiveDirectoryQuery\obj\x86\Debug\ActiveDirectoryQuery.exe
+C:\NewDev\ActiveDirectoryQuery\ActiveDirectoryQuery\obj\x86\Debug\ActiveDirectoryQuery.pdb
+C:\NewDev\ActiveDirectoryQuery\ActiveDirectoryQuery\obj\x86\Debug\ADInspector.frmMain.resources
+C:\NewDev\ActiveDirectoryQuery\ActiveDirectoryQuery\obj\x86\Debug\ADInspector.Properties.Resources.resources
+C:\NewDev\ADInspector\ActiveDirectoryQuery\obj\x86\Debug\ActiveDirectoryQuery.exe
+C:\NewDev\ADInspector\ActiveDirectoryQuery\obj\x86\Debug\ActiveDirectoryQuery.pdb
